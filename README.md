@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently working on web development projects and hackathon-based problem-solving<br>👯 I’m looking to collaborate on open-source, web apps, and AI automation projects<br>🤝 I’m looking for help with DSA in Java and building scalable full-stack apps<br>🌱 I’m currently learning AI/ML, TypeScript, and Full Stack Development<br>💬 Ask me about frontend development, Git & GitHub, AI tools, and project building<br>⚡ Fun fact: I enjoy turning real-world problems into creative digital solutions 🚀
+# 👋Hii I am Shraddha :
+🔭 I’m currently working on web development projects and hackathon-based problem-solving<br>
+👯 I’m looking to collaborate on open-source, web apps, and AI automation projects<br>
+🤝 I’m looking for help with DSA in Java and building scalable full-stack apps<br>
+🌱 I’m currently learning AI/ML, TypeScript, and Full Stack Development<br>
+💬 Ask me about frontend development, Git & GitHub, AI tools, and project building<br>
+⚡ Fun fact: I enjoy turning real-world problems into creative digital solutions 🚀
 
 
 ## 🌐 Socials:
