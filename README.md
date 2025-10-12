@@ -86,17 +86,20 @@
 
 ---
 
-## 📈 GitHub Stats
 
+### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaGaS958&show_icons=true&theme=radical" alt="Shraddha's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Itsshraddha&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsshraddha&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
 
+---
+
+### 🧩 Activity & Contributions  
+
 <p align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RaGaS958&theme=dark&hide_border=true" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itsshraddha&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
