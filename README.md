@@ -10,9 +10,9 @@
 
 - 🧠 AI Engineer & Full-Stack Developer focused on building scalable Agentic AI systems, automation tools, and real-time apps.
 
-- 🏆 3× Hackathon Finalist & Winner (Viveka, GDG, HackHazard) — passionate about solving real-world problems through tech innovation.
+- 🏆 3× Hackathon Finalist & Winner (Viveka, GDG, HackHazard) - passionate about solving real-world problems through tech innovation.
 
-- 💬 Deeply interested in AI, Mental Health, Disaster Tech, and Clean Code — blending empathy with engineering.
+- 💬 Deeply interested in AI, Mental Health, Disaster Tech, and Clean Code - blending empathy with engineering.
 
 - 💻 Always experimenting with LLMs, RAG pipelines, and AI-powered assistants to make tech more intuitive and human-centered.
 
@@ -78,7 +78,8 @@
 - 💻 Streamlit app with chat UI, lottie animations, and Gemini integration
 
 ### 🙌🏻 More to come,In progress 🚧 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="100%">
+<br><br> 
 
 ---
 
