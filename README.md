@@ -1,9 +1,9 @@
 <!-- README.md -->
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#6C63FF;">Shraddha Bajpai</span></h1>
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100%" alt="NUX_Octodex">
 
-![Welcome Image]()
+
+![Welcome Image](octocat-1760285155708.png)
 ---
 
 ## 🧠 About Me
