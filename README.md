@@ -3,11 +3,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#6C63FF;">Shraddha Bajpai</span></h1>
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100%" alt="NUX_Octodex">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Full-Stack+Developer;LLMs+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI;Cloud+Automation+%E2%80%A2+Open+Source+Contributor" alt="Typing SVG" />
-
-</p>
-
+![Welcome Image]()
 ---
 
 ## 🧠 About Me
