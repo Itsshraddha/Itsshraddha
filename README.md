@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#6C63FF;">Shraddha Bajpai</span></h1>
 
 
-![Welcome Image](octocat-1760285155708.png)
+![Welcome Image](octocat-1760288987504.png)
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Full-Stack+Developer;LLMs+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI;Cloud+Automation+%E2%80%A2+Open+Source+Contributor" alt="Typing SVG" />
 
@@ -23,12 +23,9 @@
 - ☁️ Experienced with Python, React, IBM watsonx.ai, Gemini AI, GROQ API, and Cloud Automation.
 
 - 🚀 Currently exploring multi-agent AI orchestration and GenAI-driven interfaces.
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
-  <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)" width='100%'>
-</picture>
-
+---
+ <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="100%">
+<br><br>
 ---
 
 ## 🚀 Tech Stack
@@ -106,9 +103,10 @@
 ---
 
 ## 🎯 Let's Connect
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/19b4ef1d-2035-4e6f-8484-8bd79d604dc9" width="400">
-
+---
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
+<br><br> 
+--- 
 [![Gmail](https://img.shields.io/badge/-shraddhabajpai85@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shraddhabajpai85@gmail.com)
 
 ---
@@ -119,7 +117,8 @@ I believe the best innovation happens when **logic meets creativity** 💫
 <h3 align="center">⭐ If you like what you see, consider starring some of my repositories!</h3>
 ---
 
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%" >
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%">
+<br><br>
 
 ### Looks like you have reach the end, farewell watcher, thank you for coming this far.
  
