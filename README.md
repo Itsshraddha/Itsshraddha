@@ -1,24 +1,123 @@
-# 👋 Hi there - happy to have you here! 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-# 💫 About Me:
- I am Shraddha a B.Tech CSE student and AI Engineer & Frontend Developer.<br><br>
-🔭 Building AI-powered web applications and intelligent solutions.<br>
-🌱 Continuously learning Deep Learning, NLP, Computer Vision, and AI pipelines.<br>
-✨ "Code with purpose, innovate with AI."<br>
-💫 Turning ideas into reality through intelligent and scalable code. 
-<br><br>
+<!-- README.md -->
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
-<br><br> 
+<h1 align="center">👋 Hey there, I'm <span style="color:#6C63FF;">Shraddha Bajpai</span></h1>
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100%" alt="NUX_Octodex">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shraddha-bajpai-/ ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shraddhabajpai85@gmail.com) <br><br>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/324065af-8ea3-453a-83a3-66ccba5797fb" width="200">
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Full-Stack+Developer;LLMs+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI;Cloud+Automation+%E2%80%A2+Open+Source+Contributor" alt="Typing SVG" />
+
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🧠 AI Engineer & Full-Stack Developer focused on building scalable Agentic AI systems, automation tools, and real-time apps.
+
+- 🏆 3× Hackathon Finalist & Winner (Viveka, GDG, HackHazard) — passionate about solving real-world problems through tech innovation.
+
+- 💬 Deeply interested in AI, Mental Health, Disaster Tech, and Clean Code — blending empathy with engineering.
+
+- 💻 Always experimenting with LLMs, RAG pipelines, and AI-powered assistants to make tech more intuitive and human-centered.
+
+- ☁️ Experienced with Python, React, IBM watsonx.ai, Gemini AI, GROQ API, and Cloud Automation.
+
+- 🚀 Currently exploring multi-agent AI orchestration and GenAI-driven interfaces.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
+  <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)" width='100%'>
+</picture>
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width='100%'/>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
+</div>
+
+---
+
+## 🧩 Featured Projects
+
+### 🧠 EMMA – AI Mental Health Chatbot
+> AI-powered chatbot for emotional support using CBT principles
+- Built with **React.js**, **Tailwind**, **NLP**, **HIPAA-compliant architecture**
+- 🧠 Enhanced mental health interaction for young adults
+
+### 💊 MedoKnow – Public Health Awareness
+> Real-time medicine lookup and awareness tool
+- JavaScript, HTML, CSS with animated **Vanta.js** UI
+- 🔍 Custom search for drug data and brand recognition
+
+### 📚 StudCompanion – Student Productivity Dashboard
+> All-in-one productivity companion for students
+- HTML, CSS, JavaScript (Vanilla)
+- 🎯 Tracks progress, manages notes, boosts focus & gamifies learning
+- 🤖 Includes AI Assistant, Analytics & Gamification System
 
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsshraddha&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="900">
-<br><br>
+### 🎙️ Pixie – AI Voice Assistant
+> Voice-controlled AI assistant powered by Google Gemini AI
+- Python, Speech Recognition, Text-to-Speech, and Web Automation
+- 🎵 Plays songs, opens websites, answers queries, and automates tasks
+- 🎧 Includes notification sound and customizable music library
+
+### 🧑‍🍳 FitBot AI – Fitness & Diet Assistant
+> Personalized fitness & nutrition planner for students
+- 🏋️ Generates short workouts, culturally-aware diet plans & chat guidance
+- 🥗 Focused on affordability, accessibility & student health
+- 💻 Streamlit app with chat UI, lottie animations, and Gemini integration
+
+### 🙌🏻 More to come,In progress 🚧 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+
+---
+
+## 📈 GitHub Stats
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaGaS958&show_icons=true&theme=radical" alt="Shraddha's GitHub Stats" />
+</p>
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RaGaS958&theme=dark&hide_border=true" />
+
+</p>
+
+---
+
+## 🎯 Let's Connect
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/19b4ef1d-2035-4e6f-8484-8bd79d604dc9" width="400">
+
+[![Gmail](https://img.shields.io/badge/-shraddhabajpai85@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shraddhabajpai85@gmail.com)
+
+---
+
+## 🌸 Fun Fact
+I believe the best innovation happens when **logic meets creativity** 💫  
+---
+<h3 align="center">⭐ If you like what you see, consider starring some of my repositories!</h3>
+---
+
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%" >
+
+### Looks like you have reach the end, farewell watcher, thank you for coming this far.
+ 
+  ---
+    
