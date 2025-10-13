@@ -6,8 +6,8 @@
 ![Welcome Image](octocat-1760288987504.png)
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Full-Stack+Developer;LLMs+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI;Cloud+Automation+%E2%80%A2+Open+Source+Contributor" alt="Typing SVG" />
-
 </p>
+
 ---
 
 ## 🧠 About Me
@@ -26,6 +26,7 @@
 ---
  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="100%">
 <br><br>
+
 ---
 
 ## 🚀 Tech Stack
@@ -114,14 +115,14 @@
 
 ## 🌸 Fun Fact
 I believe the best innovation happens when **logic meets creativity** 💫  
----
-<h3 align="center">⭐ If you like what you see, consider starring some of my repositories!</h3>
+
 ---
 
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%">
 <br><br>
 
 ### Looks like you have reach the end, farewell watcher, thank you for coming this far.
- 
-  ---
+<h3>⭐ If you like what you see, consider starring some of my repositories!</h3>
+
+---
     
