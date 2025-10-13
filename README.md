@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#6C63FF;">Shraddha Bajpai</span></h1>
 
 
-![Welcome Image](octocat-1760288987504.png)
+![Welcome Image](octocat-1760345149095.png)
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Full-Stack+Developer;LLMs+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI;Cloud+Automation+%E2%80%A2+Open+Source+Contributor" alt="Typing SVG" />
 </p>
