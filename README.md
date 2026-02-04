@@ -41,6 +41,13 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Itsshraddha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Itsshraddha&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsshraddha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
 ## 🧩 Featured Projects
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width='100%'/>
 
@@ -112,23 +119,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <!-- Total Contributions & Repo Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Itsshraddha&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-
-  <!-- Top Languages Used -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsshraddha&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</p>
----
-
-### 🧩 Activity & Contributions
-<p align="center"> 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itsshraddha&theme=tokyonight&hide_border=true" height="165" /> </p> 
-
----
-
-
 ## 🎯 Let's Connect <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400"> <br><br> [![Gmail](https://img.shields.io/badge/-shraddhabajpai85@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shraddhabajpai85@gmail.com) 
 
 ---
@@ -144,4 +134,3 @@ I believe the best innovation happens when **logic meets creativity** 💫
 ### Looks like you have reach the end, farewell watcher, thank you for coming this far.
 <h3>⭐ If you like what you see, consider starring some of my repositories!</h3>
 ---
-
