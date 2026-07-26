@@ -9,6 +9,24 @@
 
 ---
 
+## 💻 System Info
+
+```text
+              ___________________
+             |  _______________  |        shraddha@github
+             | |  > SYS_READY  | |        ----------------
+             | |  > AI: ONLINE | |        OS: ........... AI-Engineer-OS
+             | |  > _          | |        Uptime: ........ 21 years, 3 months
+             | |_______________| |        Languages: ..... Python, JavaScript, C++
+             |___________________|        Frameworks: .... React, Streamlit, Flask
+              \_________________/         AI Stack: ....... LLMs, RAG, watsonx.ai, Gemini
+           ____[___________]____          Hobbies: ........ AI Engineering, Gaming, Robotics
+          /                     \         Contact: ........ shraddhabajpai90@gmail.com
+         /_______________________\        Status: ......... Building something new
+```
+
+---
+
 ## 🧠 About Me
 
 - 🧠 AI Engineer & Full-Stack Developer focused on building scalable Agentic AI systems, automation tools, and real-time apps.  
@@ -43,9 +61,9 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Itsshraddha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Itsshraddha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsshraddha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Itsshraddha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=86400)<br/>
+![](https://streak-stats.demolab.com/?user=Itsshraddha&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsshraddha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=86400)
 ---
 
 ## 🧩 Featured Projects
@@ -133,4 +151,3 @@ I believe the best innovation happens when **logic meets creativity** 💫
 
 ### Looks like you have reach the end, farewell watcher, thank you for coming this far.
 <h3>⭐ If you like what you see, consider starring some of my repositories!</h3>
-
